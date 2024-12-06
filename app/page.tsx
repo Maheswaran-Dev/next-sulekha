@@ -21,6 +21,11 @@ export default function Home() {
 						Shadcn
 					</Link>
 				</div>
+				<div>
+					<Link href="/shadcnv2" className="text-blue-500 hover:underline text-xl">
+						Shadcn-v2
+					</Link>
+				</div>
 			</nav>
 		</div>
 	);
