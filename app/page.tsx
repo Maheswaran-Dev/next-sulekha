@@ -22,7 +22,7 @@ export default function Home() {
 					</Link>
 				</div>
 				<div>
-					<Link href="/shadcnv2" className="text-blue-500 hover:underline text-xl">
+					<Link href="/shadcn-v2" className="text-blue-500 hover:underline text-xl">
 						Shadcn-v2
 					</Link>
 				</div>
