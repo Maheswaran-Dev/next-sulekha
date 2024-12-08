@@ -1,5 +1,6 @@
 import SkHeader from '@/components/shadcn-v2/sk-header';
 import SkHeroImg from '@/components/shadcn-v2/sk-hero-img';
+import SKMetricCount from '@/components/shadcn-v2/sk-metric-count';
 import React from 'react';
 
 export default function Home() {
@@ -7,6 +8,7 @@ export default function Home() {
 		<div>
 			<SkHeader />
 			<SkHeroImg />
+			<SKMetricCount />
 		</div>
 	);
 }

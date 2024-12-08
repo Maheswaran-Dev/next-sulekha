@@ -45,3 +45,39 @@ Assistant: Added a simple search input field in the sheet content area.
 User: Use DropdownMenu from shadcn to implement a dropdown search. 
 Assistant: Implemented a dropdown search using DropdownMenu from shadcn.
 
+
+
+
+sk-metric-count
+User: Simple metric count that displays count and name, it is a single row and three column.
+Assistant: Provided code to add a simple metric count with three columns.
+
+sk-metric-count.tsx
+User: For style refer https://tailwindui.com/components/ecommerce/components/incentives > 3-column with icons and supporting text.
+Assistant: Updated the component to use Tailwind CSS for styling, similar to the 3-column with icons and supporting text from Tailwind UI.
+
+sk-metric-count.tsx
+User: The three metrics should be in single row with three columns.
+Assistant: Ensured the three metrics are in a single row with three columns.
+
+sk-metric-count.tsx
+User: In mobile it shows in three rows, please ensure it shows in single for mobile also.
+Assistant: Ensured the metrics are displayed in a single row even on mobile devices.
+
+sk-metric-count.tsx
+User: Remove the icons.
+Assistant: Removed the icons from the metrics.
+
+sk-metric-count.tsx
+User: Remove the metric header also.
+Assistant: Removed the metric header.
+
+sk-metric-count.tsx
+User: 30+ M, Happy Users, 200+ K, Verified Experts, 200+, Categories. Replace the value with metrics.
+Assistant: Replaced the values with the provided metrics.
+
+sk-metric-count.tsx
+User: All gray background of metric should be in same size.
+Assistant: Ensured all gray backgrounds of the metrics are the same size.
+
+sk-metric-count.tsx
